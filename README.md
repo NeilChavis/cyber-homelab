@@ -1,2 +1,2 @@
 # cyber-homelab
-A hands-on Security Operations Center (SOC) lab showcasing practical cybersecurity tools and techniques
+My name is Neil Chavis, and I'm an aspiring SOC Analyst. I'm dedicated to mastering core blue team practices through hands-on, structured learning. This portfolio showcases my work across detection strategies, threat intelligence, log analysis, SIEM tools, and incident response workflows. My goal is to build real-world competency in detection and defense, and every project represents progress toward that mission.
