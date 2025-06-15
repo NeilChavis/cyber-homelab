@@ -2,13 +2,13 @@
 My name is Neil Chavis, and I'm an aspiring SOC Analyst. I'm dedicated to mastering core blue team practices through hands-on, structured learning. This portfolio showcases my work across detection strategies, threat intelligence, log analysis, SIEM tools, and incident response workflows. My goal is to build real-world competency in detection and defense, and every project represents progress toward that mission.
 
 ## 🔧 Tools I’m Using
-- **NMAP**
-- **Wireshark** – Deep packet inspection
-- **Metasploit**
-- **ELK Stack (Elastic, Logstash, Kibana)** – Log ingestion and search
-- **Zeek** – Network traffic analysis
-- **Suricata** – IDS rule detection
-- **Sysmon** – Host-level logging
+- **Nmap** – Network scanning, port discovery, and service enumeration
+- **Wireshark** – Deep packet inspection and PCAP analysis
+- **Metasploit** – Exploitation framework for testing detection and defense
+- **ELK Stack (Elasticsearch, Logstash, Kibana)** – Log collection, search, and dashboarding
+- **Zeek** – Network traffic monitoring and log generation for analysis
+- **Suricata** – IDS/IPS engine for rule-based traffic detection
+- **Sysmon** – Host-level event logging for Windows systems
 
 ## 📝 In Progress
 - Setting up and configuring tools and VMs in homelab
