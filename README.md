@@ -16,13 +16,14 @@ My name is Neil Chavis, and I'm an aspiring SOC Analyst. I'm dedicated to master
 - Planning projects and exercises for Blue Team concepts
 
 ## 🎯 Goals & Milestones
-- ✅ Complete Google Cybersecurity Certificate
-- ✅ Pass CompTIA Security+ (target: June 2025)
+- ✅ Completed Google Cybersecurity Certificate
+- ✅ Passed CompTIA Security+ (target: June 2025)
 - ⏳ Complete TryHackMe SOC Level 1 pathway (target: Oct 2025)
 - ⏳ Gain hands-on experience and proficiency with core tools
 - ⏳ Setup and execute at least 5 capstone projects (target: Dec 2025)
 
 ## 🎯 Capstone Project Milestones
+Each capstone project is designed to reflect a critical SOC analyst skill area, building progressively toward real-world analyst readiness.
 - [ ] **CP Lvl1 – IOC Enrichment & Log Review**  
   _Analyze Sysmon/Windows logs and enrich IOCs using VirusTotal, AbuseIPDB, and Shodan._
 
