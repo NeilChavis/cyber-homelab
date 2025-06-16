@@ -20,7 +20,7 @@ My name is Neil Chavis, and I'm an aspiring SOC Analyst. I'm dedicated to master
 - ✅ Pass CompTIA Security+ (target: June 2025)
 - ⏳ Complete TryHackMe SOC Level 1 pathway (target: Oct 2025)
 - ⏳ Gain hands-on experience and proficiency with core tools
-- ⏳ Build and document at least 5 homelab projects (target: Dec 2025)
+- ⏳ Setup and execute at least 5 capstone projects (target: Dec 2025)
 
 ## 🎯 Capstone Project Milestones
 - [ ] **CP Lvl1 – IOC Enrichment & Log Review**  
